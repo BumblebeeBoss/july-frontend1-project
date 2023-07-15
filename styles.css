@@ -1,0 +1,41 @@
+.nav{
+    background-color: black;
+    color: white;
+    width:100%;
+    height: 87px;
+}
+.navheading{
+    padding-top: 25px;
+    margin-top: 10px;
+}
+.section-1{
+    width:1230px;
+}
+.section-1 a{
+    background-color:black;
+    color: white;
+    width:226px;
+    height: 58px;
+    font: Inter;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    text-decoration: none;
+}
+table{
+    border:2px solid black ;
+    width:1230px;
+    text-align:center;
+    border-collapse: collapse; 
+}
+thead>tr>td{
+    border-bottom: 2px solid black;
+}
+td{
+    border-right: 2px solid black;
+}
+tfoot{
+    background-color:black;
+    color: white;
+}
